@@ -254,7 +254,7 @@ body {
   right: 130px;
 }
 .discount_section .right_discount {
-  background-image: url(/images/cms-banner-1.jpg);
+  background-image: url(../images/cms-banner-1.jpg);
   background-size: cover;
   flex: 1;
   padding: 20px;
@@ -272,7 +272,7 @@ body {
   font-size: 20px;
 }
 .discount_section .right_discount + .right_discount {
-  background-image: url(/images/cms-banner-2.jpg);
+  background-image: url(../images/cms-banner-2.jpg);
   background-size: cover;
   flex: 1;
 }
@@ -282,7 +282,7 @@ body {
   padding: 50px 0;
 }
 .delivery-sec .box .image1 {
-  background-image: url(/images/service-icon.png);
+  background-image: url(../images/service-icon.png);
   background-repeat: no-repeat;
   height: 55px;
   background-position: center 5px;
@@ -299,7 +299,7 @@ body {
   background-position: center -86px;
 }
 .delivery-sec .box .image2 {
-  background-image: url(/images/service-icon.png);
+  background-image: url(../images/service-icon.png);
   background-repeat: no-repeat;
   height: 55px;
   background-position: center -180px;
@@ -309,7 +309,7 @@ body {
   background-position: center -273px;
 }
 .delivery-sec .box .image3 {
-  background-image: url(/images/service-icon.png);
+  background-image: url(../images/service-icon.png);
   background-repeat: no-repeat;
   height: 55px;
   background-position: center -366px;
@@ -319,7 +319,7 @@ body {
   background-position: center -455px;
 }
 .delivery-sec .box .image4 {
-  background-image: url(/images/service-icon.png);
+  background-image: url(../images/service-icon.png);
   background-repeat: no-repeat;
   height: 55px;
   background-position: center -549px;
@@ -329,7 +329,7 @@ body {
   background-position: center -639px;
 }
 .delivery-sec .box .image5 {
-  background-image: url(/images/service-icon.png);
+  background-image: url(../images/service-icon.png);
   background-repeat: no-repeat;
   height: 55px;
   background-position: center -734px;
